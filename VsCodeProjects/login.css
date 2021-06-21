@@ -1,0 +1,15 @@
+.log-in{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    transform: translateY(400px);
+}
+.log-in1{
+    display: flex;
+    justify-content: center;
+}
+.log-in2{
+    display: flex;
+    justify-content: center;
+    margin-right: 27px;
+}
